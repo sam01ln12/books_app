@@ -1,0 +1,15 @@
+.col-md-4, .col-md-3{
+    margin-top: 15px;
+    margin-right: 20px;
+}
+.profile_photo{
+    margin-bottom: 10px;
+}
+
+.books_in_year{
+    height: 50%;
+    width: 80%;
+}
+.year_in_books {
+    margin-top: 10px;
+}
